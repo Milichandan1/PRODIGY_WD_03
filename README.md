@@ -24,7 +24,8 @@ I built a clean, modern **Tic-Tac-Toe game** using HTML, CSS, and JavaScript wit
 
 ## 📸 Preview
 
-![Game Screenshot](preview.png)
+![Game Screenshot](![image](https://github.com/user-attachments/assets/206d2c91-cbcf-4778-8c10-b4ed7f1f6fc0)
+)
 
 ## 🛠️ Tech Stack
 
