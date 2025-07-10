@@ -7,7 +7,7 @@ I built a clean, modern **Tic-Tac-Toe game** using HTML, CSS, and JavaScript wit
 
 ## 🔗 Live Demo
 
-[Click here to play](https://github.com/Milichandan1/PRODIGY_WD_03/edit/main/README.md)
+[Click here to play](http://127.0.0.1:5500/Task-2/TASK-1/TASK-3/index.HTML)
 
 ## 📁 Project Structure
 
